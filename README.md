@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Iftekhar Mahmud Tamim
 
-<!--
-**IM-Tamim/IM-Tamim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Telecommunication Engineering Student  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+**Programming:** C, C++  
+**Microcontrollers:** ESP32, Arduino UNO  
+**Tools:** Proteus 
+**Electronics:** Sensors, RFID, Motor Drivers, LCDs, Buck Converters  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
